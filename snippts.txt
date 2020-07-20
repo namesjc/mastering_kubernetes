@@ -1,0 +1,7 @@
+kubectl apply -f filename
+
+microk8s.config
+
+kubctl get pods
+
+kubctl get all --all-namespaces
